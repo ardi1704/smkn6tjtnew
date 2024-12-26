@@ -285,7 +285,7 @@ background-color: #d1d1d1;
     align-items: center;
 }
 
- @media screen and (max-width:760px) {
+ @media screen and (max-width:476px) {
 
     .hiden{
         display: none;
